@@ -16,5 +16,5 @@ f. Experimente um número diferente de quadros de página para determinada strin
 referência e registre o número de falhas de página. Um algoritmo funciona melhor do
 que o outro?
 
-COMO UTILIZAR: Para ver o funcionanmento do código, você ajustar o tamanho da string de referência ou o número de quadros de página, você pode modificar as variáveis tamanho_referencia e max_quadros no final do código para ver resultados diferentes.
+COMO UTILIZAR: Para ver o funcionamento do código, você pode ajustar o tamanho da string de referência ou o número de quadros de página, você pode modificar as variáveis tamanho_referencia e max_quadros no final do código para ver resultados diferentes.
  
