@@ -1,4 +1,6 @@
 # FIFO_AND_LRU
+ATIVIDADE AVALIATIVA DA MATÉRIA DE SISTEMAS OPERACIONAIS DO PROFESSOR Antonio Denilson de Souza Oliveira
+
 1. Escreva um programa que implemente os algoritmos de substituição de página FIFO e LRU
 apresentados neste capítulo.
 a. Primeiro, gere uma string de referência de página aleatória, na qual os números de
